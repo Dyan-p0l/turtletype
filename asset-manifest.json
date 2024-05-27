@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/turtletype/static/css/main.30b2bca9.css",
+    "main.js": "/turtletype/static/js/main.ea499b44.js",
+    "static/media/logoweb.png": "/turtletype/static/media/logoweb.9fe12982b6edac8da331.png",
+    "static/media/logowebsvg2.svg": "/turtletype/static/media/logowebsvg2.cfca8232934fb66b982bf051ef8e895d.svg",
+    "index.html": "/turtletype/index.html",
+    "main.30b2bca9.css.map": "/turtletype/static/css/main.30b2bca9.css.map",
+    "main.ea499b44.js.map": "/turtletype/static/js/main.ea499b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b2bca9.css",
+    "static/js/main.ea499b44.js"
+  ]
+}
